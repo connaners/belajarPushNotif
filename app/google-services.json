@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "750133488816",
+    "firebase_url": "https://wkwkwk-713af-default-rtdb.firebaseio.com",
+    "project_id": "wkwkwk-713af",
+    "storage_bucket": "wkwkwk-713af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750133488816:android:318e7aaa2d57c1156c5f75",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750133488816-pcu10ktefp3j45gaakcrti9rpb281fc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07_LVghJYZAyTsPmkArr7-1Gnh7tztCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750133488816-pcu10ktefp3j45gaakcrti9rpb281fc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750133488816:android:9c5acc4ddb48554e6c5f75",
+        "android_client_info": {
+          "package_name": "com.plete.belajarpushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750133488816-pcu10ktefp3j45gaakcrti9rpb281fc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07_LVghJYZAyTsPmkArr7-1Gnh7tztCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750133488816-pcu10ktefp3j45gaakcrti9rpb281fc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

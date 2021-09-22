@@ -1,0 +1,4 @@
+<resources>
+    <string name="tkn_fmc">FCM TOKEN==) %s</string>
+    <string name="app_name">belajarPushNotif</string>
+</resources>
